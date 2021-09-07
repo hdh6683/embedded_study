@@ -18,5 +18,8 @@
     <ClCompile Include="first_embedded.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="first_embedded_final.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

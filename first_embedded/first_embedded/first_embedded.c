@@ -2,7 +2,6 @@
 #define PA (*(volatile unsigned char*)0x30000000)
 
 
-
 void init(void);	// LED 초기화 함수
 void display(int digit);
 
