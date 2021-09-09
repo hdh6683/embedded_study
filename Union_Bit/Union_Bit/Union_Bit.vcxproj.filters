@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="temp.cpp">
+    <ClCompile Include="Union_Bit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
