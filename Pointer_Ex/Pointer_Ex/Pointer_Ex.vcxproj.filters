@@ -27,5 +27,17 @@
     <ClCompile Include="Pointer_Ex4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Pointer_Ex5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Ex6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Ex7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer_Ex8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -143,6 +143,10 @@
     <ClCompile Include="Pointer_Ex2.c" />
     <ClCompile Include="Pointer_Ex3.c" />
     <ClCompile Include="Pointer_Ex4.c" />
+    <ClCompile Include="Pointer_Ex5.c" />
+    <ClCompile Include="Pointer_Ex6.c" />
+    <ClCompile Include="Pointer_Ex7.c" />
+    <ClCompile Include="Pointer_Ex8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
