@@ -7,3 +7,4 @@ void main() {
 	printf("%s\n", a);
 	printf("%s\n", p);
 }
+}
