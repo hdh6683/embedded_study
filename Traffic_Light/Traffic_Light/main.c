@@ -30,10 +30,12 @@ int main() {
 		case 1:
 		case 3:
 			EW = 1;
+			NS = 0;
 			break;
 		case 2:
 		case 4:
 			NS = 1;
+			EW = 0;
 			break;
 		case 5:
 			printf("프로그램을 종료합니다.\n");
@@ -75,7 +77,7 @@ int main() {
 			}
 		}
 		else {
-			printf("지나가세요.\n");
+			printf("이미 초록불이 켜져있습니다. 지나가세요.\n");
 		}
 
 	}
